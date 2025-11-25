@@ -659,9 +659,9 @@ msk,masuk
 krmh,ke-rumah
 rmh,rumah
 bo'ong,bohong
-eloo,lo
+eloo,kamu
 apa2nya,apa-apanya
-elo,lo
+elo,kamu
 lbh,lebih
 byk,banyak
 tdr,tidur
@@ -702,7 +702,7 @@ klu,kalau
 dg,dengan
 tw,tau
 durhaka2,durhaka-durhaka
-"seburuk""",seburuk-buruk
+"seburuk""",seburuk-buruknya
 ortu,orang-tua
 ktaa,kita
 yup,ya
@@ -831,8 +831,8 @@ mata'y,matanya
 baju2,baju-baju
 emng,memang
 sumai,suami
-tk,tak
-urusin,mengurusi
+tk,tidak
+urusin,urus
 bagus2,bagus-bagus
 say,sayang
 mslhnya,masalahnya
@@ -859,7 +859,7 @@ spti,seperti
 sbgai,sebagai
 mgk,mungkin
 bgmn,bagaimana
-sapa2,sapa-sapag
+sapa2,sapa-sapa
 sama2,sama-sama
 dng,dengan
 bbrp,beberapa
@@ -869,7 +869,7 @@ anak2mu,anak-anakmu
 anak2,anak-anak
 ngasih2,memberi
 amit2,amit-amit
-elu,lu
+elu,kamu
 ngajuin,mengajukan
 tiba2,tiba-tiba
 jkt,jakarta
@@ -969,7 +969,7 @@ comen2nya,komen-komennya
 pedesssss,pedas
 jelas2,jelas-jelas
 skg,sekarang
-nyebut2,menyebut-nyebut
+nyebut2,nyebut-nyebut
 plg,pulang
 hellooooooo,halo
 ngrebut,merebut
@@ -1057,7 +1057,6 @@ jt,juta
 ngets,banget
 stp,setiap
 sukakkk,suka
-m,sama
 cucokkk,cocok
 lyt,lihat
 expresi,ekspresi
@@ -1114,7 +1113,7 @@ yeuh,ya
 kmn,kemana
 disupirin,disopiri
 jidad,jidat
-bedain,membedakan
+bedain,bedakan
 brrt,berarti
 dtg,datang
 sblah,sebelah
@@ -1122,7 +1121,7 @@ tengaj,tengah
 ps,pas
 gmpg,gampang
 engk,tidak
-dak,indak
+dak,tidak
 rupa2nya,rupa-rupanya
 kembaq,kembar
 tngh,tengah
@@ -1162,12 +1161,10 @@ kngenn,kangen
 aer,air
 bgni,begini
 skalii,sekali
-gg,tidak
 pecahhg,pecah
 kakakgh,kakak
 terbaeeeek,terbaik
 manteep,mantap
-nggeh,engah
 ntapsss,mantap
 qmu,kamu
 sdkit2,sedikit-sedikit
@@ -1192,7 +1189,7 @@ nnton,menonton
 klg,keluarga
 msg2,masing-masing
 pgnnya,inginnya
-meluk,memeluk
+meluk,peluk
 mupeng,muka-pengen
 caya,percaya
 mblo,jomblo
@@ -1202,7 +1199,7 @@ bpkmu,bapakmu
 gasih,tidak-sih
 yuu,yuk
 yuuu,yuk
-ngademin,mengademkan
+ngademin,mengadem
 makasi,terima-kasih
 looo,loh
 yokk,yuk
@@ -1221,13 +1218,13 @@ pdhal,padahal
 yh,ya
 dung,dong
 aaaaaaakkk,ah
-soga,moga
+soga,semoga
 ancurrr,hancur
 dblkang,dibelakang
 yayang,sayang
 gokillllll,gila
 aplks,aplikasi
-ngepoin,mengepoi
+ngepoin,kepo
 beut,banget
 njirrr,anjir
 pengeeenn,ingin
@@ -1245,7 +1242,7 @@ anyeng,anjing
 yankkk,sayang
 yhaaa,ya
 qaqaaaa,kakak
-kakakuuu,kakakku
+kakakuuu,kakak
 banx,bang
 bape,bawa-perasaan
 "artis""",artis-artis
@@ -5984,5 +5981,6 @@ trgntng,tergantung
 dlu,dulu
 ggr,gara-gara
 memank,memang
+
 
 
