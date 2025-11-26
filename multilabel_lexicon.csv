@@ -1,6 +1,11 @@
 Label,Term
 Ethics,etika
 Ethics,moral
+Ethics,curang
+Ethics,mencontek
+Ethics,ai-fairness
+Ethics,integritas
+Ethics,etika digital
 Ethics,kejujuran
 Ethics,jujur
 Ethics,integritas
@@ -60,6 +65,14 @@ Ethics,misconduct
 Ethics,penipuan akademik
 Psychological,stres
 Psychological,stress
+Psychological,cemas
+Psychological,takut
+Psychological,bingung
+Psychological,kaget
+Psychological,panik
+Psychological,bosan
+Psychological,minder
+Psychological,insecure
 Psychological,tertekan
 Psychological,tekanan
 Psychological,overwhelmed
@@ -169,6 +182,10 @@ Social,profesor
 Social,pengajar
 Social,pembimbing
 Social,advisor
+Social,diskusi
+Social,sharing
+Social,kelompok
+Social,teman belajar
 Social,supervisor
 Social,mentor
 Social,asisten
@@ -206,6 +223,10 @@ Innovative,smart
 Innovative,cerdas
 Innovative,efisiensi
 Innovative,produktifitas
+Innovative,ide
+Innovative,kreativitas
+Innovative,solusi baru
+Innovative,fitur inovatif
 Innovative,optimal
 Innovative,meningkatkan
 Innovative,improve
@@ -224,6 +245,13 @@ Technical,valid
 Technical,benar
 Technical,salah
 Technical,error
+Technical,limit
+Technical,loading
+Technical,server
+Technical,crash
+Technical,request
+Technical,token
+Technical,prompt panjang
 Technical,incorrect
 Technical,inaccurate
 Technical,reliable
@@ -267,6 +295,12 @@ Learning,menelaah
 Learning,materi
 Learning,pelajaran
 Learning,modul
+Learning,review
+Learning,rangkum
+Learning,jelaskan
+Learning,pahami
+Learning,eksplor
+Learning,bedakan
 Learning,bab
 Learning,kurikulum
 Learning,konten
@@ -309,6 +343,12 @@ Evaluation,skor
 Evaluation,score
 Evaluation,grade
 Evaluation,ipk
+Evaluation,nilainya
+Evaluation,skor
+Evaluation,rubrik
+Evaluation,penilaian
+Evaluation,asesmen
+Evaluation,ujian harian
 Evaluation,gpa
 Evaluation,ranking
 Evaluation,peringkat
@@ -359,6 +399,13 @@ Time,disiplin
 Time,konsisten
 Time,rutin
 Time,habit
+Time,cepat
+Time,lambat
+Time,delay
+Time,efisien
+Time,hemat waktu
+Time,terburu-buru
+Time,telat
 Time,kebiasaan
 Time,menunda
 Time,prokrastinasi
@@ -385,6 +432,14 @@ Research,analisis
 Research,data
 Research,dataset
 Research,variabel
+Research,metodologi
+Research,studi
+Research,referensi
+Research,pustaka
+Research,hipotesis
+Research,data
+Research,analisis
+Research,variabel
 Research,statistik
 Research,hipotesis
 Research,review
@@ -396,4 +451,5 @@ Research,research gate
 Research,scopus
 Research,artikel
 Research,cari
+
 
