@@ -1,398 +1,399 @@
 Label,Term
-Etika,etika
-Etika,moral
-Etika,kejujuran
-Etika,jujur
-Etika,integritas
-Etika,amanah
-Etika,adil
-Etika,tanggung jawab
-Etika,bertanggung jawab
-Etika,kode etik
-Etika,disiplin
-Etika,plagiat
-Etika,plagiarisme
-Etika,penjiplakan
-Etika,menjiplak
-Etika,nyontek
-Etika,mencontek
-Etika,curang
-Etika,kecurangan
-Etika,bohong
-Etika,berbohong
-Etika,copypaste
-Etika,copy paste
-Etika,copy-paste
-Etika,tidak etis
-Etika,tidak bermoral
-Etika,amoral
-Etika,immoral
-Etika,hak cipta
-Etika,copyright
-Etika,keaslian
-Etika,asli
-Etika,original
-Etika,autentik
-Etika,sitasi
-Etika,kutipan
-Etika,referensi
-Etika,sumber
-Etika,atribusi
-Etika,kredit
-Etika,mengakui
-Etika,pelanggaran
-Etika,aturan
-Etika,meniru
-Etika,peraturan
-Etika,tata tertib
-Etika,sanksi
-Etika,hukuman
-Etika,denda
-Etika,skorsing
-Etika,dikeluarkan
-Etika,fabrikasi
-Etika,falsifikasi
-Etika,data palsu
-Etika,hasil palsu
-Etika,rekayasa
-Etika,fabricate
-Etika,misconduct
-Etika,penipuan akademik
-Psikologis,stres
-Psikologis,stress
-Psikologis,tertekan
-Psikologis,tekanan
-Psikologis,overwhelmed
-Psikologis,kewalahan
-Psikologis,beban
-Psikologis,terbebani
-Psikologis,cemas
-Psikologis,anxiety
-Psikologis,gelisah
-Psikologis,resah
-Psikologis,khawatir
-Psikologis,panik
-Psikologis,nervous
-Psikologis,gugup
-Psikologis,depresi
-Psikologis,depressed
-Psikologis,sedih
-Psikologis,murung
-Psikologis,putus asa
-Psikologis,hopeless
-Psikologis,menyerah
-Psikologis,lelah
-Psikologis,kelelahan
-Psikologis,capek
-Psikologis,burnout
-Psikologis,exhausted
-Psikologis,letih
-Psikologis,loyo
-Psikologis,drop
-Psikologis,frustasi
-Psikologis,frustrated
-Psikologis,kesal
-Psikologis,jengkel
-Psikologis,bingung
-Psikologis,stuck
-Psikologis,buntu
-Psikologis,motivasi
-Psikologis,termotivasi
-Psikologis,semangat
-Psikologis,bersemangat
-Psikologis,antusias
-Psikologis,males
-Psikologis,malas
-Psikologis,tidak mood
-Psikologis,percaya diri
-Psikologis,pede
-Psikologis,confidence
-Psikologis,insecure
-Psikologis,minder
-Psikologis,rendah diri
-Psikologis,takut gagal
-Psikologis,mental health
-Psikologis,kesehatan mental
-Psikologis,psikis
-Psikologis,emosional
-Psikologis,trauma
-Psikologis,traumatis
-Psikologis,disorder
-Psikologis,curhat
-Psikologis,susah
-Sosial,kolaborasi
-Sosial,kerjasama
-Sosial,bekerja sama
-Sosial,kooperatif
-Sosial,koordinasi
-Sosial,sinergi
-Sosial,diskusi
-Sosial,dialog
-Sosial,sharing
-Sosial,berbagi
-Sosial,ngobrol
-Sosial,komunikasi
-Sosial,berkomunikasi
-Sosial,komunitas
-Sosial,kelompok
-Sosial,grup
-Sosial,team
-Sosial,tim
-Sosial,circle
-Sosial,peer
-Sosial,sejawat
-Sosial,tutor sebaya
-Sosial,mentoring
-Sosial,peer learning
-Sosial,group project
-Sosial,teman
-Sosial,sahabat
-Sosial,rekan
-Sosial,kolega
-Sosial,mitra
-Sosial,kawan
-Sosial,jaringan
-Sosial,relasi
-Sosial,networking
-Sosial,hubungan
-Sosial,pertemanan
-Sosial,forum
-Sosial,komentar
-Sosial,feedback
-Sosial,webinar
-Sosial,zoom
-Sosial,telegram
-Sosial,discord
-Sosial,grup wa
-Sosial,dosen
-Sosial,profesor
-Sosial,pengajar
-Sosial,pembimbing
-Sosial,advisor
-Sosial,supervisor
-Sosial,mentor
-Sosial,asisten
-Sosial,kampus
-Sosial,jawab
-Sosial,bantu
-Inovatif,inovasi
-Inovatif,inovatif
-Inovatif,kreatif
-Inovatif,kreativitas
-Inovatif,imajinatif
-Inovatif,visioner
-Inovatif,baru
-Inovatif,unik
-Inovatif,fresh
-Inovatif,eksperimen
-Inovatif,mencoba
-Inovatif,uji coba
-Inovatif,eksplorasi
-Inovatif,trial
-Inovatif,testing
-Inovatif,bereksperimen
-Inovatif,transformasi
-Inovatif,revolusi
-Inovatif,terobosan
-Inovatif,disrupsi
-Inovatif,perubahan
-Inovatif,adaptif
-Inovatif,reformasi
-Inovatif,machine learning
-Inovatif,kecerdasan buatan
-Inovatif,llm
-Inovatif,automation
-Inovatif,smart
-Inovatif,cerdas
-Inovatif,efisiensi
-Inovatif,produktifitas
-Inovatif,optimal
-Inovatif,meningkatkan
-Inovatif,improve
-Inovatif,solusi
-Inovatif,membantu
-Inovatif,future
-Inovatif,futuristic
-Inovatif,masa depan
-Inovatif,next generation
-Inovatif,society 5.0
-Inovatif,industry 4.0
-Teknis,akurat
-Teknis,akurasi
-Teknis,tepat
-Teknis,valid
-Teknis,benar
-Teknis,salah
-Teknis,error
-Teknis,incorrect
-Teknis,inaccurate
-Teknis,reliable
-Teknis,kredibel
-Teknis,terpercaya
-Teknis,stabil
-Teknis,bug
-Teknis,performa
-Teknis,performance
-Teknis,cepat
-Teknis,lambat
-Teknis,lemot
-Teknis,lag
-Teknis,responsif
-Teknis,hang
-Teknis,crash
-Teknis,masalah
-Teknis,problem
-Teknis,kendala
-Teknis,trouble
-Teknis,issue
-Teknis,glitch
-Teknis,terbatas
-Teknis,limitasi
-Teknis,keterbatasan
-Teknis,tidak bisa
-Teknis,gagal
-Teknis,fail
-Teknis,version
-Teknis,update
-Teknis,upgrade
-Teknis,outdated
-Pembelajaran,belajar
-Pembelajaran,pembelajaran
-Pembelajaran,studi
-Pembelajaran,learning
-Pembelajaran,memahami
-Pembelajaran,mengerti
-Pembelajaran,paham
-Pembelajaran,menelaah
-Pembelajaran,materi
-Pembelajaran,pelajaran
-Pembelajaran,modul
-Pembelajaran,bab
-Pembelajaran,kurikulum
-Pembelajaran,konten
-Pembelajaran,topik
-Pembelajaran,lesson
-Pembelajaran,tugas
-Pembelajaran,latihan
-Pembelajaran,kuis
-Pembelajaran,ujian
-Pembelajaran,praktikum
-Pembelajaran,homework
-Pembelajaran,assignment
-Pembelajaran,belajar mandiri
-Pembelajaran,tutorial
-Pembelajaran,praktik
-Pembelajaran,kelas online
-Pembelajaran,metode
-Pembelajaran,strategi
-Pembelajaran,pendekatan
-Pembelajaran,teknik
-Pembelajaran,cara mengajar
-Pembelajaran,pengajaran
-Pembelajaran,learning method
-Pembelajaran,pengetahuan
-Pembelajaran,skill
-Pembelajaran,keterampilan
-Pembelajaran,kemampuan
-Pembelajaran,kompetensi
-Pembelajaran,literasi
-Pembelajaran,berpikir kritis
-Pembelajaran,ajar
-Pembelajaran,kuliah
-Pembelajaran,mahasiswa
-Pembelajaran,tulis
-Pembelajaran,baca
-Pembelajaran,informasi
-Pembelajaran,akademik
-Evaluasi,nilai
-Evaluasi,skor
-Evaluasi,score
-Evaluasi,grade
-Evaluasi,ipk
-Evaluasi,gpa
-Evaluasi,ranking
-Evaluasi,peringkat
-Evaluasi,penilaian
-Evaluasi,assessment
-Evaluasi,evaluasi
-Evaluasi,feedback
-Evaluasi,masukan
-Evaluasi,saran
-Evaluasi,kritik
-Evaluasi,revisi
-Evaluasi,rubrik
-Evaluasi,hasil
-Evaluasi,capaian
-Evaluasi,achievement
-Evaluasi,prestasi
-Evaluasi,accomplishment
-Evaluasi,lulus
-Evaluasi,tidak lulus
-Evaluasi,fail
-Evaluasi,success
-Evaluasi,uji
-Evaluasi,uas
-Evaluasi,uts
-Waktu,waktu
-Waktu,jadwal
-Waktu,deadline
-Waktu,tenggat
-Waktu,batas waktu
-Waktu,due date
-Waktu,schedule
-Waktu,cepat
-Waktu,instan
-Waktu,lambat
-Waktu,terlambat
-Waktu,efisien
-Waktu,productive
-Waktu,produktif
-Waktu,tepat waktu
-Waktu,planning
-Waktu,perencanaan
-Waktu,target
-Waktu,goal
-Waktu,prioritas
-Waktu,urgent
-Waktu,penting
-Waktu,disiplin
-Waktu,konsisten
-Waktu,rutin
-Waktu,habit
-Waktu,kebiasaan
-Waktu,menunda
-Waktu,prokrastinasi
-Waktu,procrastination
-Riset,riset
-Riset,research
-Riset,penelitian
-Riset,kajian
-Riset,studi ilmiah
-Riset,eksperimen
-Riset,survey
-Riset,observasi
-Riset,skripsi
-Riset,tesis
-Riset,disertasi
-Riset,paper
-Riset,jurnal
-Riset,publikasi
-Riset,artikel ilmiah
-Riset,tugas akhir
-Riset,metodologi
-Riset,metode penelitian
-Riset,analisis
-Riset,data
-Riset,dataset
-Riset,variabel
-Riset,statistik
-Riset,hipotesis
-Riset,review
-Riset,peer review
-Riset,publikasi ilmiah
-Riset,open access
-Riset,citation
-Riset,research gate
-Riset,scopus
-Riset,artikel
-Riset,cari
+Ethics,etika
+Ethics,moral
+Ethics,kejujuran
+Ethics,jujur
+Ethics,integritas
+Ethics,amanah
+Ethics,adil
+Ethics,tanggung jawab
+Ethics,bertanggung jawab
+Ethics,kode etik
+Ethics,disiplin
+Ethics,plagiat
+Ethics,plagiarisme
+Ethics,penjiplakan
+Ethics,menjiplak
+Ethics,nyontek
+Ethics,mencontek
+Ethics,curang
+Ethics,kecurangan
+Ethics,bohong
+Ethics,berbohong
+Ethics,copypaste
+Ethics,copy paste
+Ethics,copy-paste
+Ethics,tidak etis
+Ethics,tidak bermoral
+Ethics,amoral
+Ethics,immoral
+Ethics,hak cipta
+Ethics,copyright
+Ethics,keaslian
+Ethics,asli
+Ethics,original
+Ethics,autentik
+Ethics,sitasi
+Ethics,kutipan
+Ethics,referensi
+Ethics,sumber
+Ethics,atribusi
+Ethics,kredit
+Ethics,mengakui
+Ethics,pelanggaran
+Ethics,aturan
+Ethics,meniru
+Ethics,peraturan
+Ethics,tata tertib
+Ethics,sanksi
+Ethics,hukuman
+Ethics,denda
+Ethics,skorsing
+Ethics,dikeluarkan
+Ethics,fabrikasi
+Ethics,falsifikasi
+Ethics,data palsu
+Ethics,hasil palsu
+Ethics,rekayasa
+Ethics,fabricate
+Ethics,misconduct
+Ethics,penipuan akademik
+Psychological,stres
+Psychological,stress
+Psychological,tertekan
+Psychological,tekanan
+Psychological,overwhelmed
+Psychological,kewalahan
+Psychological,beban
+Psychological,terbebani
+Psychological,cemas
+Psychological,anxiety
+Psychological,gelisah
+Psychological,resah
+Psychological,khawatir
+Psychological,panik
+Psychological,nervous
+Psychological,gugup
+Psychological,depresi
+Psychological,depressed
+Psychological,sedih
+Psychological,murung
+Psychological,putus asa
+Psychological,hopeless
+Psychological,menyerah
+Psychological,lelah
+Psychological,kelelahan
+Psychological,capek
+Psychological,burnout
+Psychological,exhausted
+Psychological,letih
+Psychological,loyo
+Psychological,drop
+Psychological,frustasi
+Psychological,frustrated
+Psychological,kesal
+Psychological,jengkel
+Psychological,bingung
+Psychological,stuck
+Psychological,buntu
+Psychological,motivasi
+Psychological,termotivasi
+Psychological,semangat
+Psychological,bersemangat
+Psychological,antusias
+Psychological,males
+Psychological,malas
+Psychological,tidak mood
+Psychological,percaya diri
+Psychological,pede
+Psychological,confidence
+Psychological,insecure
+Psychological,minder
+Psychological,rendah diri
+Psychological,takut gagal
+Psychological,mental health
+Psychological,kesehatan mental
+Psychological,psikis
+Psychological,emosional
+Psychological,trauma
+Psychological,traumatis
+Psychological,disorder
+Psychological,curhat
+Psychological,susah
+Social,kolaborasi
+Social,kerjasama
+Social,bekerja sama
+Social,kooperatif
+Social,koordinasi
+Social,sinergi
+Social,diskusi
+Social,dialog
+Social,sharing
+Social,berbagi
+Social,ngobrol
+Social,komunikasi
+Social,berkomunikasi
+Social,komunitas
+Social,kelompok
+Social,grup
+Social,team
+Social,tim
+Social,circle
+Social,peer
+Social,sejawat
+Social,tutor sebaya
+Social,mentoring
+Social,peer learning
+Social,group project
+Social,teman
+Social,sahabat
+Social,rekan
+Social,kolega
+Social,mitra
+Social,kawan
+Social,jaringan
+Social,relasi
+Social,networking
+Social,hubungan
+Social,pertemanan
+Social,forum
+Social,komentar
+Social,feedback
+Social,webinar
+Social,zoom
+Social,telegram
+Social,discord
+Social,grup wa
+Social,dosen
+Social,profesor
+Social,pengajar
+Social,pembimbing
+Social,advisor
+Social,supervisor
+Social,mentor
+Social,asisten
+Social,kampus
+Social,jawab
+Social,bantu
+Innovative,inovasi
+Innovative,inovatif
+Innovative,kreatif
+Innovative,kreativitas
+Innovative,imajinatif
+Innovative,visioner
+Innovative,baru
+Innovative,unik
+Innovative,fresh
+Innovative,eksperimen
+Innovative,mencoba
+Innovative,uji coba
+Innovative,eksplorasi
+Innovative,trial
+Innovative,testing
+Innovative,bereksperimen
+Innovative,transformasi
+Innovative,revolusi
+Innovative,terobosan
+Innovative,disrupsi
+Innovative,perubahan
+Innovative,adaptif
+Innovative,reformasi
+Innovative,machine learning
+Innovative,kecerdasan buatan
+Innovative,llm
+Innovative,automation
+Innovative,smart
+Innovative,cerdas
+Innovative,efisiensi
+Innovative,produktifitas
+Innovative,optimal
+Innovative,meningkatkan
+Innovative,improve
+Innovative,solusi
+Innovative,membantu
+Innovative,future
+Innovative,futuristic
+Innovative,masa depan
+Innovative,next generation
+Innovative,society 5.0
+Innovative,industry 4.0
+Technical,akurat
+Technical,akurasi
+Technical,tepat
+Technical,valid
+Technical,benar
+Technical,salah
+Technical,error
+Technical,incorrect
+Technical,inaccurate
+Technical,reliable
+Technical,kredibel
+Technical,terpercaya
+Technical,stabil
+Technical,bug
+Technical,performa
+Technical,performance
+Technical,cepat
+Technical,lambat
+Technical,lemot
+Technical,lag
+Technical,responsif
+Technical,hang
+Technical,crash
+Technical,masalah
+Technical,problem
+Technical,kendala
+Technical,trouble
+Technical,issue
+Technical,glitch
+Technical,terbatas
+Technical,limitasi
+Technical,keterbatasan
+Technical,tidak bisa
+Technical,gagal
+Technical,fail
+Technical,version
+Technical,update
+Technical,upgrade
+Technical,outdated
+Learning,belajar
+Learning,pembelajaran
+Learning,studi
+Learning,learning
+Learning,memahami
+Learning,mengerti
+Learning,paham
+Learning,menelaah
+Learning,materi
+Learning,pelajaran
+Learning,modul
+Learning,bab
+Learning,kurikulum
+Learning,konten
+Learning,topik
+Learning,lesson
+Learning,tugas
+Learning,latihan
+Learning,kuis
+Learning,ujian
+Learning,praktikum
+Learning,homework
+Learning,assignment
+Learning,belajar mandiri
+Learning,tutorial
+Learning,praktik
+Learning,kelas online
+Learning,metode
+Learning,strategi
+Learning,pendekatan
+Learning,teknik
+Learning,cara mengajar
+Learning,pengajaran
+Learning,learning method
+Learning,pengetahuan
+Learning,skill
+Learning,keterampilan
+Learning,kemampuan
+Learning,kompetensi
+Learning,literasi
+Learning,berpikir kritis
+Learning,ajar
+Learning,kuliah
+Learning,mahasiswa
+Learning,tulis
+Learning,baca
+Learning,informasi
+Learning,akademik
+Evaluation,nilai
+Evaluation,skor
+Evaluation,score
+Evaluation,grade
+Evaluation,ipk
+Evaluation,gpa
+Evaluation,ranking
+Evaluation,peringkat
+Evaluation,penilaian
+Evaluation,assessment
+Evaluation,evaluasi
+Evaluation,feedback
+Evaluation,masukan
+Evaluation,saran
+Evaluation,kritik
+Evaluation,revisi
+Evaluation,rubrik
+Evaluation,hasil
+Evaluation,capaian
+Evaluation,achievement
+Evaluation,prestasi
+Evaluation,accomplishment
+Evaluation,lulus
+Evaluation,tidak lulus
+Evaluation,fail
+Evaluation,success
+Evaluation,uji
+Evaluation,uas
+Evaluation,uts
+Time,waktu
+Time,jadwal
+Time,deadline
+Time,tenggat
+Time,batas Time
+Time,due date
+Time,schedule
+Time,cepat
+Time,instan
+Time,lambat
+Time,terlambat
+Time,efisien
+Time,productive
+Time,produktif
+Time,tepat Time
+Time,planning
+Time,perencanaan
+Time,target
+Time,goal
+Time,prioritas
+Time,urgent
+Time,penting
+Time,disiplin
+Time,konsisten
+Time,rutin
+Time,habit
+Time,kebiasaan
+Time,menunda
+Time,prokrastinasi
+Time,procrastination
+Research,riset
+Research,research
+Research,penelitian
+Research,kajian
+Research,studi ilmiah
+Research,eksperimen
+Research,survey
+Research,observasi
+Research,skripsi
+Research,tesis
+Research,disertasi
+Research,paper
+Research,jurnal
+Research,publikasi
+Research,artikel ilmiah
+Research,tugas akhir
+Research,metodologi
+Research,metode penelitian
+Research,analisis
+Research,data
+Research,dataset
+Research,variabel
+Research,statistik
+Research,hipotesis
+Research,review
+Research,peer review
+Research,publikasi ilmiah
+Research,open access
+Research,citation
+Research,research gate
+Research,scopus
+Research,artikel
+Research,cari
+
