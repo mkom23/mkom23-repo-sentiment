@@ -23,7 +23,6 @@ Etika,berbohong
 Etika,copypaste
 Etika,copy paste
 Etika,copy-paste
-Etika,turnitin
 Etika,tidak etis
 Etika,tidak bermoral
 Etika,amoral
@@ -90,7 +89,7 @@ Psikologis,exhausted
 Psikologis,letih
 Psikologis,loyo
 Psikologis,drop
-Psikologis,frustrasi
+Psikologis,frustasi
 Psikologis,frustrated
 Psikologis,kesal
 Psikologis,jengkel
@@ -119,6 +118,8 @@ Psikologis,emosional
 Psikologis,trauma
 Psikologis,traumatis
 Psikologis,disorder
+Psikologis,curhat
+Psikologis,susah
 Sosial,kolaborasi
 Sosial,kerjasama
 Sosial,bekerja sama
@@ -171,6 +172,9 @@ Sosial,advisor
 Sosial,supervisor
 Sosial,mentor
 Sosial,asisten
+Sosial,kampus
+Sosial,jawab
+Sosial,bantu
 Inovatif,inovasi
 Inovatif,inovatif
 Inovatif,kreatif
@@ -293,6 +297,13 @@ Pembelajaran,kemampuan
 Pembelajaran,kompetensi
 Pembelajaran,literasi
 Pembelajaran,berpikir kritis
+Pembelajaran,ajar
+Pembelajaran,kuliah
+Pembelajaran,mahasiswa
+Pembelajaran,tulis
+Pembelajaran,baca
+Pembelajaran,informasi
+Pembelajaran,akademik
 Evaluasi,nilai
 Evaluasi,skor
 Evaluasi,score
@@ -319,6 +330,9 @@ Evaluasi,lulus
 Evaluasi,tidak lulus
 Evaluasi,fail
 Evaluasi,success
+Evaluasi,uji
+Evaluasi,uas
+Evaluasi,uts
 Waktu,waktu
 Waktu,jadwal
 Waktu,deadline
@@ -380,40 +394,5 @@ Riset,open access
 Riset,citation
 Riset,research gate
 Riset,scopus
-Pembelajaran,ajar
-Pembelajaran,kuliah
-Pembelajaran,mahasiswa
-Pembelajaran,tulis
-Pembelajaran,baca
-Pembelajaran,artikel
-Pembelajaran,cari
-Pembelajaran,buku
-Pembelajaran,informasi
-Pembelajaran,akademik
-Pembelajaran,inggris
-Inovatif,bantu
-Inovatif,prompt
-Inovatif,mudah
-Inovatif,bagus
-Inovatif,pintar
-Teknis,google
-Teknis,prompt
-Teknis,uji
-Teknis,otak
-Sosial,kampus
-Sosial,curhat
-Sosial,jawab
-Psikologis,curhat
-Psikologis,susah
-Psikologis,beda
-Psikologis,efek
-Psikologis,pintar
-Waktu,uas
-Waktu,uts
-Waktu,uji
-Evaluasi,uji
-Evaluasi,uas
-Evaluasi,uts
 Riset,artikel
 Riset,cari
-Riset,uji
