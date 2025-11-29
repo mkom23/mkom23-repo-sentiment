@@ -63,76 +63,76 @@ Ethics,rekayasa
 Ethics,fabricate
 Ethics,misconduct
 Ethics,penipuan akademik
-Psychological,stres
-Psychological,stress
-Psychological,cemas
-Psychological,takut
-Psychological,bingung
-Psychological,kaget
-Psychological,panik
-Psychological,bosan
-Psychological,minder
-Psychological,insecure
-Psychological,tertekan
-Psychological,tekanan
-Psychological,overwhelmed
-Psychological,kewalahan
-Psychological,beban
-Psychological,terbebani
-Psychological,cemas
-Psychological,anxiety
-Psychological,gelisah
-Psychological,resah
-Psychological,khawatir
-Psychological,panik
-Psychological,nervous
-Psychological,gugup
-Psychological,depresi
-Psychological,depressed
-Psychological,sedih
-Psychological,murung
-Psychological,putus asa
-Psychological,hopeless
-Psychological,menyerah
-Psychological,lelah
-Psychological,kelelahan
-Psychological,capek
-Psychological,burnout
-Psychological,exhausted
-Psychological,letih
-Psychological,loyo
-Psychological,drop
-Psychological,frustasi
-Psychological,frustrated
-Psychological,kesal
-Psychological,jengkel
-Psychological,bingung
-Psychological,stuck
-Psychological,buntu
-Psychological,motivasi
-Psychological,termotivasi
-Psychological,semangat
-Psychological,bersemangat
-Psychological,antusias
-Psychological,males
-Psychological,malas
-Psychological,tidak mood
-Psychological,percaya diri
-Psychological,pede
-Psychological,confidence
-Psychological,insecure
-Psychological,minder
-Psychological,rendah diri
-Psychological,takut gagal
-Psychological,mental health
-Psychological,kesehatan mental
-Psychological,psikis
-Psychological,emosional
-Psychological,trauma
-Psychological,traumatis
-Psychological,disorder
-Psychological,curhat
-Psychological,susah
+Psychology,stres
+Psychology,stress
+Psychology,cemas
+Psychology,takut
+Psychology,bingung
+Psychology,kaget
+Psychology,panik
+Psychology,bosan
+Psychology,minder
+Psychology,insecure
+Psychology,tertekan
+Psychology,tekanan
+Psychology,overwhelmed
+Psychology,kewalahan
+Psychology,beban
+Psychology,terbebani
+Psychology,cemas
+Psychology,anxiety
+Psychology,gelisah
+Psychology,resah
+Psychology,khawatir
+Psychology,panik
+Psychology,nervous
+Psychology,gugup
+Psychology,depresi
+Psychology,depressed
+Psychology,sedih
+Psychology,murung
+Psychology,putus asa
+Psychology,hopeless
+Psychology,menyerah
+Psychology,lelah
+Psychology,kelelahan
+Psychology,capek
+Psychology,burnout
+Psychology,exhausted
+Psychology,letih
+Psychology,loyo
+Psychology,drop
+Psychology,frustasi
+Psychology,frustrated
+Psychology,kesal
+Psychology,jengkel
+Psychology,bingung
+Psychology,stuck
+Psychology,buntu
+Psychology,motivasi
+Psychology,termotivasi
+Psychology,semangat
+Psychology,bersemangat
+Psychology,antusias
+Psychology,males
+Psychology,malas
+Psychology,tidak mood
+Psychology,percaya diri
+Psychology,pede
+Psychology,confidence
+Psychology,insecure
+Psychology,minder
+Psychology,rendah diri
+Psychology,takut gagal
+Psychology,mental health
+Psychology,kesehatan mental
+Psychology,psikis
+Psychology,emosional
+Psychology,trauma
+Psychology,traumatis
+Psychology,disorder
+Psychology,curhat
+Psychology,susah
 Social,kolaborasi
 Social,kerjasama
 Social,bekerja sama
@@ -451,5 +451,6 @@ Research,research gate
 Research,scopus
 Research,artikel
 Research,cari
+
 
 
